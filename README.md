@@ -11,8 +11,6 @@ git push origin [tagname]
 ```
 OR
 Create a new release under the "releases" tab of a repo
-
-Currently it is not possible to tag one commit of a repo as starter code and a later commit as solution code but this functionality is in discussion.
 ## Removing a released lab/assignment
 To remove a repo from the students view, simply remove the tags. It is easiest to do this via the GitHub UI under the tags tab for a repo. Please note that, if you created the tag as a *release* (as in the second method above) then you will have to delete both the *release* and the *tag*
 ## TravisCI integration
